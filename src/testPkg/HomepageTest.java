@@ -28,7 +28,7 @@ public class HomepageTest extends SuperTestNG {
 	
 	@Test
 	public void verifyTitle(){
-		Assert
+		Assert.assertEquals(driver.getTitle(), "google");
 		
 			
 	
