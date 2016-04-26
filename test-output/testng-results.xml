@@ -1,21 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" total="1" passed="1">
+<testng-results skipped="0" failed="0" total="2" passed="2">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="13175" started-at="2016-04-26T12:09:56Z" finished-at="2016-04-26T12:10:10Z">
+  <suite name="Default suite" duration-ms="15838" started-at="2016-04-26T12:59:34Z" finished-at="2016-04-26T12:59:50Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="13175" started-at="2016-04-26T12:09:56Z" finished-at="2016-04-26T12:10:10Z">
+    <test name="Default test" duration-ms="15838" started-at="2016-04-26T12:59:34Z" finished-at="2016-04-26T12:59:50Z">
       <class name="testPkg.HomepageTest">
-        <test-method status="PASS" signature="openBrowser()[pri:0, instance:testPkg.HomepageTest@77b52d12]" name="openBrowser" is-config="true" duration-ms="11136" started-at="2016-04-26T17:39:56Z" finished-at="2016-04-26T17:40:07Z">
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:testPkg.HomepageTest@77b52d12]" name="openBrowser" is-config="true" duration-ms="11238" started-at="2016-04-26T18:29:34Z" finished-at="2016-04-26T18:29:45Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- openBrowser -->
-        <test-method status="PASS" signature="verifyTitle()[pri:0, instance:testPkg.HomepageTest@77b52d12]" name="verifyTitle" duration-ms="19" started-at="2016-04-26T17:40:07Z" finished-at="2016-04-26T17:40:08Z">
+        <test-method status="PASS" signature="clickLiveScoreLink()[pri:0, instance:testPkg.HomepageTest@77b52d12]" name="clickLiveScoreLink" duration-ms="1819" started-at="2016-04-26T18:29:45Z" finished-at="2016-04-26T18:29:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickLiveScoreLink -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:testPkg.HomepageTest@77b52d12]" name="tearDown" is-config="true" duration-ms="193" started-at="2016-04-26T18:29:47Z" finished-at="2016-04-26T18:29:47Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=clickLiveScoreLink status=SUCCESS method=HomepageTest.clickLiveScoreLink()[pri:0, instance:testPkg.HomepageTest@77b52d12] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="verifyTitle()[pri:0, instance:testPkg.HomepageTest@77b52d12]" name="verifyTitle" duration-ms="1236" started-at="2016-04-26T18:29:47Z" finished-at="2016-04-26T18:29:48Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyTitle -->
-        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:testPkg.HomepageTest@77b52d12]" name="tearDown" is-config="true" duration-ms="699" started-at="2016-04-26T17:40:08Z" finished-at="2016-04-26T17:40:08Z">
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:testPkg.HomepageTest@77b52d12]" name="tearDown" is-config="true" duration-ms="30" started-at="2016-04-26T18:29:48Z" finished-at="2016-04-26T18:29:48Z">
           <params>
             <param index="0">
               <value>
@@ -26,7 +41,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:testPkg.HomepageTest@77b52d12]" name="closeBrowser" is-config="true" duration-ms="1309" started-at="2016-04-26T17:40:08Z" finished-at="2016-04-26T17:40:10Z">
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:testPkg.HomepageTest@77b52d12]" name="closeBrowser" is-config="true" duration-ms="1308" started-at="2016-04-26T18:29:48Z" finished-at="2016-04-26T18:29:50Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeBrowser -->

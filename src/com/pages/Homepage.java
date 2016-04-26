@@ -17,4 +17,7 @@ public class Homepage {
 	@FindBy(xpath="//a[text()='Schedule'][@class='cb-hm-mnu-itm']")
 	public WebElement scheduleLink;
 	
+	@FindBy(xpath="//nav[@class='cb-nav cb-col cb-col-100']/a[text()='Live Scores']")
+	public WebElement mainNav_LiveScoreLink;
+	
 }
