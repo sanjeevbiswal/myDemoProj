@@ -1,65 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="1" failed="0" total="1" passed="0">
+<testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="385" started-at="2016-04-22T03:05:40Z" finished-at="2016-04-22T03:05:41Z">
+  <suite name="Default suite" duration-ms="13175" started-at="2016-04-26T12:09:56Z" finished-at="2016-04-26T12:10:10Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="385" started-at="2016-04-22T03:05:40Z" finished-at="2016-04-22T03:05:41Z">
+    <test name="Default test" duration-ms="13175" started-at="2016-04-26T12:09:56Z" finished-at="2016-04-26T12:10:10Z">
       <class name="testPkg.HomepageTest">
-        <test-method status="FAIL" signature="openBrowser()[pri:0, instance:testPkg.HomepageTest@1417077]" name="openBrowser" is-config="true" duration-ms="0" started-at="2016-04-22T08:35:40Z" finished-at="2016-04-22T08:35:40Z">
-          <exception class="java.lang.NoClassDefFoundError">
-            <message>
-              <![CDATA[freemarker/template/TemplateException]]>
-            </message>
-            <full-stacktrace>
-              <![CDATA[java.lang.NoClassDefFoundError: freemarker/template/TemplateException
-	at com.relevantcodes.extentreports.ExtentReports.<init>(ExtentReports.java:78)
-	at com.relevantcodes.extentreports.ExtentReports.<init>(ExtentReports.java:407)
-	at testPkg.SuperTestNG.openBrowser(SuperTestNG.java:26)
-	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
-	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
-	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
-	at java.lang.reflect.Method.invoke(Unknown Source)
-	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:85)
-	at org.testng.internal.Invoker.invokeConfigurationMethod(Invoker.java:510)
-	at org.testng.internal.Invoker.invokeConfigurations(Invoker.java:211)
-	at org.testng.internal.Invoker.invokeConfigurations(Invoker.java:138)
-	at org.testng.TestRunner.beforeRun(TestRunner.java:647)
-	at org.testng.TestRunner.run(TestRunner.java:615)
-	at org.testng.SuiteRunner.runTest(SuiteRunner.java:357)
-	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:352)
-	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:310)
-	at org.testng.SuiteRunner.run(SuiteRunner.java:259)
-	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
-	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
-	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1185)
-	at org.testng.TestNG.runSuitesLocally(TestNG.java:1110)
-	at org.testng.TestNG.run(TestNG.java:1018)
-	at org.testng.remote.RemoteTestNG.run(RemoteTestNG.java:111)
-	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:204)
-	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:175)
-Caused by: java.lang.ClassNotFoundException: freemarker.template.TemplateException
-	at java.net.URLClassLoader.findClass(Unknown Source)
-	at java.lang.ClassLoader.loadClass(Unknown Source)
-	at sun.misc.Launcher$AppClassLoader.loadClass(Unknown Source)
-	at java.lang.ClassLoader.loadClass(Unknown Source)
-	... 25 more
-]]>
-            </full-stacktrace>
-          </exception> <!-- java.lang.NoClassDefFoundError -->
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:testPkg.HomepageTest@77b52d12]" name="openBrowser" is-config="true" duration-ms="11136" started-at="2016-04-26T17:39:56Z" finished-at="2016-04-26T17:40:07Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- openBrowser -->
-        <test-method status="SKIP" signature="verifyTitle()[pri:0, instance:testPkg.HomepageTest@1417077]" name="verifyTitle" duration-ms="0" started-at="2016-04-22T08:35:41Z" finished-at="2016-04-22T08:35:41Z">
+        <test-method status="PASS" signature="verifyTitle()[pri:0, instance:testPkg.HomepageTest@77b52d12]" name="verifyTitle" duration-ms="19" started-at="2016-04-26T17:40:07Z" finished-at="2016-04-26T17:40:08Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyTitle -->
-        <test-method status="SKIP" signature="tearDown(org.testng.ITestResult)[pri:0, instance:testPkg.HomepageTest@1417077]" name="tearDown" is-config="true" duration-ms="0" started-at="2016-04-22T08:35:41Z" finished-at="2016-04-22T08:35:41Z">
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:testPkg.HomepageTest@77b52d12]" name="tearDown" is-config="true" duration-ms="699" started-at="2016-04-26T17:40:08Z" finished-at="2016-04-26T17:40:08Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyTitle status=SUCCESS method=HomepageTest.verifyTitle()[pri:0, instance:testPkg.HomepageTest@77b52d12] output={null}]]]>
+              </value>
+            </param>
+          </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method status="SKIP" signature="closeBrowser()[pri:0, instance:testPkg.HomepageTest@1417077]" name="closeBrowser" is-config="true" duration-ms="0" started-at="2016-04-22T08:35:41Z" finished-at="2016-04-22T08:35:41Z">
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:testPkg.HomepageTest@77b52d12]" name="closeBrowser" is-config="true" duration-ms="1309" started-at="2016-04-26T17:40:08Z" finished-at="2016-04-26T17:40:10Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeBrowser -->

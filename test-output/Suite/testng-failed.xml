@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
-<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]" parallel="none">
-  <parameter name="browser" value="ch"/>
-  <test name="Test In Chrome(failed)" parallel="none">
-    <parameter name="browser" value="ch"/>
+<suite name="Failed suite [Suite]" parallel="none">
+  <test name="Test(failed)" parallel="none">
     <classes>
-      <class name="testclass.TestClass">
+      <class name="testPkg.HomepageTest">
         <methods>
+          <include name="closeBrowser"/>
           <include name="verifyTitle"/>
           <include name="openBrowser"/>
+          <include name="tearDown"/>
         </methods>
-      </class> <!-- testclass.TestClass -->
+      </class> <!-- testPkg.HomepageTest -->
     </classes>
-  </test> <!-- Test In Chrome(failed) -->
+  </test> <!-- Test(failed) -->
 </suite> <!-- Failed suite [Suite] -->

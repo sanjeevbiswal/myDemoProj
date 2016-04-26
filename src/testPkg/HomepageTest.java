@@ -28,9 +28,9 @@ public class HomepageTest extends SuperTestNG {
 	
 	@Test
 	public void verifyTitle(){
-		
-		
-			
-	
+	test=report.startTest("verifyTitle");
+	logger.info(driver.getTitle());
+	Assert.assertTrue(driver.getTitle().contains("IPL 2016"));
+	test.log(LogStatus.PASS, "Title is as expected");
 	}
 }
