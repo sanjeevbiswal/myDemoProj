@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]" parallel="none">
+  <parameter name="browser" value="ch"/>
+  <test name="Test In Chrome(failed)" parallel="none">
+    <parameter name="browser" value="ch"/>
+    <classes>
+      <class name="testclass.TestClass">
+        <methods>
+          <include name="verifyTitle"/>
+          <include name="openBrowser"/>
+        </methods>
+      </class> <!-- testclass.TestClass -->
+    </classes>
+  </test> <!-- Test In Chrome(failed) -->
+</suite> <!-- Failed suite [Suite] -->
