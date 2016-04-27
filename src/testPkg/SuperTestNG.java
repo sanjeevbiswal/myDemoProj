@@ -30,7 +30,7 @@ public class SuperTestNG {
 		PropertyConfigurator.configure("log4j.properties");
 		report=new ExtentReports("./Report/Report.html");
 		System.setProperty("webdriver.chrome.driver", "./tools/chromedriver.exe");
-		driver=new FirefoxDriver();
+		driver=new ChromeDriver();
 		logger.info("Firefox Browser opened");
 		driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
 		driver.manage().window().maximize();

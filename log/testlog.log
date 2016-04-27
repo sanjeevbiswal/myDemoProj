@@ -1,0 +1,70 @@
+2016-04-26 17:28:37,335 - testPkg.SuperTestNG -INFO - Browser opened
+2016-04-26 17:28:48,745 - testPkg.SuperTestNG -INFO - Page loaded
+2016-04-26 17:32:44,932 - testPkg.SuperTestNG -INFO - Browser opened
+2016-04-26 17:32:57,626 - testPkg.SuperTestNG -INFO - Page loaded
+2016-04-26 17:35:30,354 - testPkg.SuperTestNG -INFO - Browser opened
+2016-04-26 17:35:42,513 - testPkg.SuperTestNG -INFO - Page loaded
+2016-04-26 17:35:42,539 - testPkg.SuperTestNG -INFO - IPL 2016 - Live cricket scores, schedule, news, archive, series | Cricbuzz.com
+2016-04-26 17:36:24,517 - testPkg.SuperTestNG -INFO - Browser opened
+2016-04-26 17:36:35,204 - testPkg.SuperTestNG -INFO - Page loaded
+2016-04-26 17:36:35,231 - testPkg.SuperTestNG -INFO - IPL 2016 - Live cricket scores, schedule, news, archive, series | Cricbuzz.com
+2016-04-26 17:37:10,500 - testPkg.SuperTestNG -INFO - Browser opened
+2016-04-26 17:37:19,479 - testPkg.SuperTestNG -INFO - Page loaded
+2016-04-26 17:37:19,494 - testPkg.SuperTestNG -INFO - IPL 2016 - Live cricket scores, schedule, news, archive, series | Cricbuzz.com
+2016-04-26 17:38:47,851 - testPkg.SuperTestNG -INFO - Browser opened
+2016-04-26 17:38:57,218 - testPkg.SuperTestNG -INFO - Page loaded
+2016-04-26 17:38:57,233 - testPkg.SuperTestNG -INFO - IPL 2016 - Live cricket scores, schedule, news, archive, series | Cricbuzz.com
+2016-04-26 17:39:19,858 - testPkg.SuperTestNG -INFO - Browser opened
+2016-04-26 17:39:30,376 - testPkg.SuperTestNG -INFO - Page loaded
+2016-04-26 17:39:30,391 - testPkg.SuperTestNG -INFO - IPL 2016 - Live cricket scores, schedule, news, archive, series | Cricbuzz.com
+2016-04-26 17:39:58,137 - testPkg.SuperTestNG -INFO - Browser opened
+2016-04-26 17:40:07,981 - testPkg.SuperTestNG -INFO - Page loaded
+2016-04-26 17:40:08,002 - testPkg.SuperTestNG -INFO - IPL 2016 - Live cricket scores, schedule, news, archive, series | Cricbuzz.com
+2016-04-26 18:28:03,060 - testPkg.SuperTestNG -INFO - Browser opened
+2016-04-26 18:28:14,697 - testPkg.SuperTestNG -INFO - Page loaded
+2016-04-26 18:28:15,548 - testPkg.SuperTestNG -INFO - Homepage loaded
+2016-04-26 18:28:15,766 - testPkg.SuperTestNG -INFO - Clicked LiveScore link in the main nav
+2016-04-26 18:28:16,743 - testPkg.SuperTestNG -INFO - clickLiveScoreLink testcase passed
+2016-04-26 18:28:17,121 - testPkg.SuperTestNG -INFO - Cricket Matches - Live Cricket Scores, Results, Fixtures - Cricbuzz | Cricbuzz.com
+2016-04-26 18:29:35,814 - testPkg.SuperTestNG -INFO - Browser opened
+2016-04-26 18:29:45,499 - testPkg.SuperTestNG -INFO - Page loaded
+2016-04-26 18:29:46,474 - testPkg.SuperTestNG -INFO - Homepage loaded
+2016-04-26 18:29:46,524 - testPkg.SuperTestNG -INFO - Clicked LiveScore link in the main nav
+2016-04-26 18:29:47,328 - testPkg.SuperTestNG -INFO - clickLiveScoreLink testcase passed
+2016-04-26 18:29:48,755 - testPkg.SuperTestNG -INFO - IPL 2016 - Live cricket scores, schedule, news, archive, series | Cricbuzz.com
+2016-04-26 18:38:44,436 - testPkg.SuperTestNG -INFO - Browser opened
+2016-04-26 18:38:57,617 - testPkg.SuperTestNG -INFO - Page loaded
+2016-04-26 18:39:00,328 - testPkg.SuperTestNG -INFO - Homepage loaded
+2016-04-26 18:39:00,476 - testPkg.SuperTestNG -INFO - Clicked LiveScore link in the main nav
+2016-04-26 18:39:01,661 - testPkg.SuperTestNG -INFO - clickLiveScoreLink testcase passed
+2016-04-26 18:39:03,569 - testPkg.SuperTestNG -INFO - IPL 2016 - Live cricket scores, schedule, news, archive, series | Cricbuzz.com
+2016-04-26 19:05:08,974 - testPkg.SuperTestNG -INFO - Browser opened
+2016-04-26 19:05:24,079 - testPkg.SuperTestNG -INFO - Page loaded
+2016-04-26 19:05:25,263 - testPkg.SuperTestNG -INFO - Homepage loaded
+2016-04-26 19:05:25,374 - testPkg.SuperTestNG -INFO - Clicked LiveScore link in the main nav
+2016-04-26 19:05:26,141 - testPkg.SuperTestNG -INFO - clickLiveScoreLink testcase passed
+2016-04-26 19:05:29,929 - testPkg.SuperTestNG -INFO - IPL 2016 - Live cricket scores, schedule, news, archive, series | Cricbuzz.com
+2016-04-26 19:29:26,510 - testPkg.SuperTestNG -INFO - Browser opened
+2016-04-26 19:29:41,734 - testPkg.SuperTestNG -INFO - Page loaded
+2016-04-26 19:29:43,346 - testPkg.SuperTestNG -INFO - Homepage loaded
+2016-04-26 19:29:43,393 - testPkg.SuperTestNG -INFO - Clicked LiveScore link in the main nav
+2016-04-26 19:29:44,210 - testPkg.SuperTestNG -INFO - clickLiveScoreLink testcase passed
+2016-04-26 19:29:45,458 - testPkg.SuperTestNG -INFO - IPL 2016 - Live cricket scores, schedule, news, archive, series | Cricbuzz.com
+2016-04-26 19:31:36,439 - testPkg.SuperTestNG -INFO - Browser opened
+2016-04-26 19:31:47,959 - testPkg.SuperTestNG -INFO - Page loaded
+2016-04-26 19:31:48,877 - testPkg.SuperTestNG -INFO - Homepage loaded
+2016-04-26 19:31:48,933 - testPkg.SuperTestNG -INFO - Clicked LiveScore link in the main nav
+2016-04-26 19:31:49,718 - testPkg.SuperTestNG -INFO - clickLiveScoreLink testcase passed
+2016-04-26 19:31:50,854 - testPkg.SuperTestNG -INFO - IPL 2016 - Live cricket scores, schedule, news, archive, series | Cricbuzz.com
+2016-04-26 19:32:56,582 - testPkg.SuperTestNG -INFO - Browser opened
+2016-04-26 19:33:06,430 - testPkg.SuperTestNG -INFO - Page loaded
+2016-04-26 19:33:07,645 - testPkg.SuperTestNG -INFO - Homepage loaded
+2016-04-26 19:33:07,691 - testPkg.SuperTestNG -INFO - Clicked LiveScore link in the main nav
+2016-04-26 19:33:08,726 - testPkg.SuperTestNG -INFO - clickLiveScoreLink testcase passed
+2016-04-26 19:33:10,113 - testPkg.SuperTestNG -INFO - IPL 2016 - Live cricket scores, schedule, news, archive, series | Cricbuzz.com
+2016-04-26 19:55:19,760 - testPkg.SuperTestNG -INFO - Firefox Browser opened
+2016-04-26 19:55:38,119 - testPkg.SuperTestNG -INFO - Page loaded
+2016-04-26 19:55:38,147 - testPkg.SuperTestNG -INFO - Homepage loaded
+2016-04-26 19:55:52,198 - testPkg.SuperTestNG -INFO - Clicked LiveScore link in the main nav
+2016-04-26 19:57:37,502 - testPkg.SuperTestNG -INFO - clickLiveScoreLink testcase passed
+2016-04-26 19:59:20,394 - testPkg.SuperTestNG -INFO - IPL 2016 - Live cricket scores, schedule, news, archive, series | Cricbuzz.com
